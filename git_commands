@@ -21,3 +21,9 @@
 8. git checkout <branch name>
 			this will switch into the branch name given
  
+9. git remote add origin https://<token generated>@<url of the repo>
+		>>> to authenticate the remote repo to local machine to push without username and password
+
+10. git push origin master
+		>>> to push the changes to remote repo after commiting locally
+
