@@ -8,3 +8,11 @@
 			>>> to add user email id
 
 4. git config -l  >>> to check the username and email
+
+5. git add <file name> 
+		>>> will add the file to staging area
+
+6. git add . 
+		>>> will add the the files in present directory to staging area
+
+7. 
