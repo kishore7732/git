@@ -1,0 +1,10 @@
+1. git clone <url of the remote repo>
+			>>> to clone the repo from a remote server lo local serber
+
+2. git config --global user.name <kishore7732>
+			>>> to add user name
+
+3. git config --global user.email <kishore00110101004@gmail.com>
+			>>> to add user email id
+
+4. git config -l  >>> to check the username and email
