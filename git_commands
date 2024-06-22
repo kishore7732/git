@@ -15,4 +15,9 @@
 6. git add . 
 		>>> will add the the files in present directory to staging area
 
-7. 
+7. git checkout -b <branch name>
+			this will create a new branch and switches into it
+
+8. git checkout <branch name>
+			this will switch into the branch name given
+ 
